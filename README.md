@@ -1,9 +1,11 @@
 # 📱 TikTokizer
 Randomize and watch your old tiktok likes and favorites.
 
-<img width="919" height="695" alt="image" src="https://github.com/user-attachments/assets/b9dd5121-d19f-4ca9-8051-6fa376438fae" />
+<img width="961" height="754" alt="Screenshot 2026-11-15 183902" src="https://github.com/user-attachments/assets/7278e426-36a4-4c5b-9dea-c3a922073d00" />
 
-# 🌐 [TikTokizer Website](https://leandropng.github.io/TikTokizer/)
+
+# 🌐 [TikTokizer V2 Website](https://leandropng.github.io/TikTokizer/)
+
 
 # ‼️ DISCLAIMER
 - To use TikTokizer, you need to import your tiktok user data in JSON or TXT file. I CANNOT see your data or have any access to it. Your data will be removed after reloading the site.
@@ -15,6 +17,7 @@ Randomize and watch your old tiktok likes and favorites.
 # ⚙️ Languages
 - English
 - German
+- Spanish
 
 # 🧑‍💻 Credits
 - Made by Claude.
